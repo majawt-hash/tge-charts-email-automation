@@ -1,6 +1,6 @@
 # 📊 TGE Market Data Chart Generator & Automated Newsletter (Google Apps Script)
 
-Automatyczny system raportowania i wysyłki cotygodniowych e-maili z notowaniami cen energii elektrycznej oraz gazu ziemnego z Towarowej Giełdy Energii (TGE)[cite: 7, 8, 9]. Projekt bazuje na Google Apps Script i współpracuje z arkuszem zbiorczym zasilanym przez repozytorium [tge-market-data-sync](https://github.com/majawt-hash/tge-market-data-sync).
+Automatyczny system raportowania i wysyłki cotygodniowych e-maili z notowaniami cen energii elektrycznej oraz gazu ziemnego z Towarowej Giełdy Energii (TGE). Projekt bazuje na Google Apps Script i współpracuje z arkuszem zbiorczym zasilanym przez repozytorium [tge-market-data-sync](https://github.com/majawt-hash/tge-market-data-sync).
 
 ```mermaid
 graph TD
